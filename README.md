@@ -1,5 +1,5 @@
 # golang-arduino
-### Connect a PC to Arduino through the serial port. Send data from one to the other.
+### Connect a PC to Arduino through the serial port. Send data from one to the other. Use the browser as the UI.
 
 ### contains
 * the arduino code that runs in the board 
